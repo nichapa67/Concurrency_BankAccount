@@ -9,7 +9,7 @@ public class BankTest {
         int NUM_DEPOSITOR = 3;
         int NUM_WITHDRAWER= 3;
 
-        int VALUE = 1;
+        int VALUE = 100;
         int ROUND = 10000;
 
         //สร้างคนฝาก
